@@ -20,6 +20,9 @@ Tech Stack used
  - JWT
  - BcryptJS
  - dotenv
+----------------------------------------------------------------
 
+Once we have the basic bacend setup we setup AuthRoutes 
+  
 
 
