@@ -22,7 +22,11 @@ Tech Stack used
  - dotenv
 ----------------------------------------------------------------
 
-Once we have the basic bacend setup we setup AuthRoutes 
+- Once we have the basic backend setup we setup AuthRoutes and authController
+- Now we can configure the MONGODB with the backend
+- Now  we can create the user models
+ 
+
   
 
 
